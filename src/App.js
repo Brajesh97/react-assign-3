@@ -1,10 +1,10 @@
 import React from "react";
-import Form1 from "./Form1";
+import Form from "./Form1";
 //import Form, {Form2} from "./Form1";
 const App = () => {
         return(
             <div>
-               <Form1/>
+               <Form/>
             </div>
         )
     
