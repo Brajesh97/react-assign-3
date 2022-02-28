@@ -1,5 +1,6 @@
 import React from "react";
-import Form1, {Form} from "./Form1";
+import Form1 from "./Form1";
+//import Form, {Form} from "./Form1";
 const App = () => {
         return(
             <div>
